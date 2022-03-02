@@ -36,6 +36,7 @@ export function Card({ cardNumber: number }) {
 
                     </div>
             }
+        {/*     test / 1 */}
 
             <div className='footer__container'>
                 <div className='label'>Label</div>
